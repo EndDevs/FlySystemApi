@@ -1,10 +1,12 @@
-name: BedrockFly
-main: FlySystem
+name: FlySystemAPI
+main: FlySystem\Main
 api: 3.0.0
 version: 1.0.0
-author: Aleondev
+author: 
+- Aleondev
+- EndDev
 
 commands:
 fly: 
-description: §§bBedrock§fMine §eFly §0By Aleondev
+description: §4Fly§eSystem
 permission: fly.command
