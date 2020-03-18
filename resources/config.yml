@@ -2,8 +2,8 @@
 
 #fly on message 
 
-Flytrue: "§bBedrock§fMine §aFly on"
+Flytrue: "§aFly on §cConfig"
 
 #fly of message
 
-FlyFalse: "§bBedrock§fMine §cFly Off"
+FlyFalse: "§cFly Off §cConfig"
