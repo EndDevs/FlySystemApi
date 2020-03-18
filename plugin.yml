@@ -1,0 +1,10 @@
+name: BedrockFly
+main: FlySystem
+api: 3.0.0
+version: 1.0.0
+author: Aleondev
+
+commands:
+fly: 
+description: §§bBedrock§fMine §eFly §0By Aleondev
+permission: fly.command
